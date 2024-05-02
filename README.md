@@ -3,7 +3,7 @@
 </p>
 
 <h1>Creative First Subscription and First Resource Group </h1> 
-In this tutorial, we create observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+In this tutorial, we will create our first subscription in Microsoft Azure and create our first resource group that will allow us to create (build) future resources in Azure.<br />
 
 
 <h2>Video Demonstration</h2>
