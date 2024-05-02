@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/T4EG5rh.png">
 </p>
 
-<h1>Creativing First Subscription and First Resource Group </h1> 
+<h1>Creating First Subscription and First Resource Group </h1> 
 In this tutorial, we will create our first subscription in Microsoft Azure and create our first resource group that will allow us to create (build) future resources in Azure.<br />
 
 
