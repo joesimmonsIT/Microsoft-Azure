@@ -2,8 +2,8 @@
 <img src="https://i.imgur.com/T4EG5rh.png">
 </p>
 
-<h1>Network Security Groups (NSGs) and Inspecting Traffic Between Azure Virtual Machines</h1>
-In this tutorial, we observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
+<h1>Creative First Subscription and First Resource Group </h1> 
+In this tutorial, we create observe various network traffic to and from Azure Virtual Machines with Wireshark as well as experiment with Network Security Groups. <br />
 
 
 <h2>Video Demonstration</h2>
