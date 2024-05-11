@@ -28,7 +28,7 @@ In this tutorial, we will create our first subscription in Microsoft Azure and c
 <img src="https://i.imgur.com/zRovdX8.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Welcome to this tutorial. Let's get started. First, go to Google.com. Second, type "free azure account" in the search bar and press the Enter button. Click the Start Free button referencing the free $200.00 Azure credits.
 </p>
 <br />
 
