@@ -116,7 +116,9 @@ Select the Create button to proceed.
 <img src="https://i.imgur.com/MuIfbYo.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Go to the URL bar at the top of your browser and type Portal.Azure.Com, this will take you back to the Azure Portal Home Page. <br /> <br />
+Select Resource groups icon. <br /> <br />
+We will see the new Resource Group we just created "RGLab1". <br /> <br />
 </p>
 <br />
 
