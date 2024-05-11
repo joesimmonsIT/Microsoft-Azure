@@ -94,7 +94,11 @@ Select the Create button to proceed with the creation of the resource group.
 <img src="https://i.imgur.com/QbfSQrF.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+For the Subscription select the appropriate subscription, if you have more than one. <br /> <br />
+If you only have one subscription then skip this step and proceed to the next step. <br /> <br />
+For the Resource Group type the name of your desired resource group, for this tutorial we will be using "RGLab1". <br /> <br />
+For the Region select your desired region, for this tutorital we will be using "(US) East US".  <br /> <br />
+Select Review + create.  
 </p>
 <br />
 
