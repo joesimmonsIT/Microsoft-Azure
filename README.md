@@ -76,7 +76,9 @@ Select "Start Tour" to experience a tour of Microsoft Azure or Select "Maybe Lat
 <img src="https://i.imgur.com/amn761s.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The Resource Group is the foundation for all created resources in Microsoft Azure. <br /> <br />
+The Resource Group "houses" or stores all the created resources.<br /> <br />
+Click the Resource groups icon to start creating a resource group. <br /> <br />
 </p>
 <br />
 
