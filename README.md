@@ -126,7 +126,8 @@ We will see the new Resource Group we just created "RGLab1". <br /> <br />
 <img src="https://i.imgur.com/tH9WrgT.png"/>
 </p>
 <p>
-Click "RGLab1" to view resources created under the Resource Group, since we have not created sources yet there should be no resources present.
+Click "RGLab1" to view resources created under the Resource Group, since we have not created sources yet there should be no resources present. <br /> <br />
+Congratulations you have successfully completed this tutorial! <br /> <br />
 </p>
 <br />
 
